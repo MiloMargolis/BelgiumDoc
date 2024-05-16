@@ -1,3 +1,3 @@
-# Dr. Mark Fontenot
+# Dr. Milo Margolis
 
-Hi, I'm Mark Fontenot, and I love databases!
+Hi, I'm Milo Margolis and I love SQL and Databsases!
