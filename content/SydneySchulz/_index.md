@@ -1,3 +1,8 @@
-# Dr. Mark Fontenot
+# Sydney Schulz
+### My name is Sydney Schulz and I am an incoming third year data science and journalism major. 
+### Some of my hobbies include:
+- reading
+- skiing
+- long walks
 
-Hi, I'm Mark Fontenot, and I love databases!
+### I am very excited for you to view our project!
