@@ -4,8 +4,9 @@
     <title>Summer 2024 Brussels DoC Blog Template</title>
     <link>http://localhost:1313/hugo-blog-template/sydneyschulz/</link>
     <description>Recent content on Summer 2024 Brussels DoC Blog Template</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2024 </copyright>
     <atom:link href="http://localhost:1313/hugo-blog-template/sydneyschulz/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
