@@ -12,4 +12,4 @@ showAuthorsBadges : false
 
 # Welcome to Team Michelin Star
 
-Welcome to the Professorial Team's Blog
+Welcome to the Team Michilin Star's Blog
