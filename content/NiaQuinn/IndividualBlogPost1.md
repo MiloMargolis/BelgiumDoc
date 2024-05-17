@@ -11,7 +11,7 @@ showAuthorsBadges : false
 ---
 A few days of Python review, data-cleaning crash courses, and a brush-up on statistics after touching down in Belgium, all 28 of us, 26 students and 2 professors, had the opportunity to take a quick trip next door to Brussels where we were about to listen to three knowledgeable speakers from the EEAS for short, or European External Action Service for long. 
 
-<img src="https://www.eeas.europa.eu/sites/default/files/styles/site_logo/public/media/2023/EEAS_Logo.png?itok=FKkeQ4Il" width=300 />
+<img src="https://www.eeas.europa.eu/sites/default/files/styles/site_logo/public/media/2023/EEAS_Logo.png?itok=FKkeQ4Il" class="center"/>
 
 The first speaker discussed the rapidly evolving field of cybersecurity in a world revolutionized by artificial intelligence with state, non-state, and state-nexxus groups acting as major sources of threat. These threats mostly came in the form of traditional strategies like ransomware and Denial of Service attacks. Such vulnerabilities can be found through bugs in technology, the processes in which policy is moved (or not) forward, and the people executing the work themselves. 
 
@@ -19,7 +19,7 @@ Moving forward that afternoon, the third speaker explored the increase of false 
 
 The day afterward, we bused out to NATO where, again, all 28 of us were granted the chance to listen to technically minded speakers. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/300px-NATO_OTAN_landscape_logo.svg.png" width=300 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/300px-NATO_OTAN_landscape_logo.svg.png" class="center"/>
 
 Of the three speakers present, the second and third speakers stood out for their ability to describe NATO’s astute ability to capitalize on the world’s rapidly changing technology. Touching more on concrete examples of the ways that social media plays in combating misinformation on social media, the second speaker relayed personal anecdotes of past girlfriends falling victim to state accounts acting as radicalized users and how misinformation leads to distrust in previously trusted experts. 
 
