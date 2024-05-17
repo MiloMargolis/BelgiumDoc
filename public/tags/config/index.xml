@@ -4,23 +4,49 @@
     <title>Config on Summer 2024 Brussels DoC Blog Template</title>
     <link>http://localhost:1313/hugo-blog-template/tags/config/</link>
     <description>Recent content in Config on Summer 2024 Brussels DoC Blog Template</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-blog-template/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-blog-template/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fascinating Findings</title>
+      <link>http://localhost:1313/hugo-blog-template/paololanaro/first/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo-blog-template/paololanaro/first/</guid>
+      <description>Fascinating Findings #Hello, and welcome to my first blog post!</description>
+      
+    </item>
+    
+    <item>
+      <title>Individual Blog Post 1</title>
+      <link>http://localhost:1313/hugo-blog-template/niaquinn/first/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo-blog-template/niaquinn/first/</guid>
+      <description>A few days of Python review, data-cleaning crash courses, and a brush-up on statistics after touching down in Belgium, all 28 of us, 26 students and 2 professors, had the opportunity to take a quick trip next door to Brussels where we were about to listen to three knowledgeable speakers from the EEAS for short, or European External Action Service for long.</description>
+      
+    </item>
+    
     <item>
       <title>Project - Phase I</title>
       <link>http://localhost:1313/hugo-blog-template/team_posts/phase1post/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/hugo-blog-template/team_posts/phase1post/</guid>
-      <description>Introduction Hi, We are Team Leuven!</description>
+      <description>Introduction #Hi, We are Team Leuven!</description>
+      
     </item>
+    
     <item>
       <title>Project - Phase I</title>
       <link>http://localhost:1313/hugo-blog-template/team_posts/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/hugo-blog-template/team_posts/</guid>
-      <description>Welcome to Team Michelin Star Welcome to the Team Michilin Star&amp;rsquo;s Blog</description>
+      <description>Welcome to Team Michelin Star #Welcome to the Team Michilin Star&amp;rsquo;s Blog</description>
+      
     </item>
+    
   </channel>
 </rss>

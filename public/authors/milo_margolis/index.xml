@@ -4,16 +4,19 @@
     <title>Milo_margolis on Summer 2024 Brussels DoC Blog Template</title>
     <link>http://localhost:1313/hugo-blog-template/authors/milo_margolis/</link>
     <description>Recent content in Milo_margolis on Summer 2024 Brussels DoC Blog Template</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-blog-template/authors/milo_margolis/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-blog-template/authors/milo_margolis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project - Phase I</title>
       <link>http://localhost:1313/hugo-blog-template/team_posts/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/hugo-blog-template/team_posts/</guid>
-      <description>Welcome to Team Michelin Star Welcome to the Team Michilin Star&amp;rsquo;s Blog</description>
+      <description>Welcome to Team Michelin Star #Welcome to the Team Michilin Star&amp;rsquo;s Blog</description>
+      
     </item>
+    
   </channel>
 </rss>
