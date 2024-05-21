@@ -39,7 +39,7 @@ We hope to use the article search API from the NYT that allows us to search and 
 ## User Personas
 - ### Persona #1: Anton Müller, the Policy Maker
 
-<img src="https://i.imgur.com/Npbak9n.jpeg" class="center"/>
+<img src="https://i.imgur.com/4I7F5zn.png" class="center"/>
 
   - **Overview:**  
     - Age: 53
