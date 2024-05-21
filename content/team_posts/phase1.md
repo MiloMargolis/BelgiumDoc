@@ -28,18 +28,16 @@ We began thinking about globalizing the very general concept of "food" (again, a
 # Phase 1 Deliverable:
 
 ## Project Description 
-	For our project, we plan on creating an application that can indicate the general global perception of a certain country based on how the country is perceived through news articles. By determining the sentiment of articles that are related to a nation, we can determine how news sources perceive these nations. Many journalists and news organizations have biases towards specific nations and being able to quantify these biases will allow for further understanding about how these biases affect global perceptions. We hope to be able to implement sentiment analysis and linear regression to help gather insights for a variety of different stakeholders. We foresee these insights will allow for benefits on an international/local government scale and on a smaller scale with individual citizens. 
+For our project, we plan on creating an application that can indicate the general global perception of a certain country based on how the country is perceived through news articles. By determining the sentiment of articles that are related to a nation, we can determine how news sources perceive these nations. Many journalists and news organizations have biases towards specific nations and being able to quantify these biases will allow for further understanding about how these biases affect global perceptions. We hope to be able to implement sentiment analysis and linear regression to help gather insights for a variety of different stakeholders. We foresee these insights will allow for benefits on an international/local government scale and on a smaller scale with individual citizens. 
   
-	On a smaller scale, if individuals understand how their nation is perceived, they will have a better idea of what to expect when traveling. When interacting with individuals from other nations, they will have a general understanding about attitudes and stereotypes and may be able to have more success in informing others about their home nation.
+On a smaller scale, if individuals understand how their nation is perceived, they will have a better idea of what to expect when traveling. When interacting with individuals from other nations, they will have a general understanding about attitudes and stereotypes and may be able to have more success in informing others about their home nation.
 
-	This understanding of perception is also incredibly relevant on a larger governmental scale both locally and broader. Politicians and nation leaders must have an understanding of the preconceived biases and impressions that other nations have on them to pursue effective diplomacy and create a successful impression when talking to the media.
+This understanding of perception is also incredibly relevant on a larger governmental scale both locally and broader. Politicians and nation leaders must have an understanding of the preconceived biases and impressions that other nations have on them to pursue effective diplomacy and create a successful impression when talking to the media.
 
-	We hope to use the article search API from the NYT that allows us to search and grab articles by keyword. The information that we get is the title and a short excerpt from the article that we will do our analysis on. In addition to this, we hope to be able to implement an API for a separate news source so that the users will be able to compare how different news sources with different leanings perceive their nation. 
+We hope to use the article search API from the NYT that allows us to search and grab articles by keyword. The information that we get is the title and a short excerpt from the article that we will do our analysis on. In addition to this, we hope to be able to implement an API for a separate news source so that the users will be able to compare how different news sources with different leanings perceive their nation. 
 
 ## User Personas
 - ### Persona #1: Anton Müller, the Policy Maker
-
-<img src="hugo-blog-template\assets\katerina.jpg" class="center"/>
 
   - **Overview:**  
     - Age: 53
@@ -150,6 +148,7 @@ We began thinking about globalizing the very general concept of "food" (again, a
 
 
 ## Potential Sources / APIs
+
 - <a href="https://newsapi.org/docs/get-started">NewsApi</a>
 - <a href="https://developer.nytimes.com/docs/archive-product/1/overview">NYT API</a>
 - <a href="https://api.ap.org/media/v/docs/#t=Getting_Started_API.htm">AP</a>
