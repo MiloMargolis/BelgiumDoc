@@ -156,7 +156,6 @@ We hope to use the article search API from the NYT that allows us to search and 
 
 
 ## Potential Sources / APIs
-NewsApi
-NYT API
-AP News API
-
+- <a href="https://newsapi.org/docs/get-started">NewsApi</a>
+- <a href="https://developer.nytimes.com/docs/archive-product/1/overview">NYT API</a>
+- <a href="https://api.ap.org/media/v/docs/#t=Getting_Started_API.htm">AP</a>

@@ -10,6 +10,8 @@ authors:
 showAuthorsBadges : false
 ---
 
-# Welcome back...
-# here's what you've missed!
+# Welcome back, here's what you've missed!
 
+Just wanted to add some notes on the things that I was able to contribute to this phase of the project. In relation to the project ideation, I along with my teammates were able to collaborate on the discussion in relation to the project. There was a stark evolution from a project dedicated to determining the success of restaurants given specifed criteria to a project associated with assiting various types of users to understand the general sentiment of different countries.
+
+After assisting in this discussion regarding themes, I also contributed to the final deliverable by creating one of the user personas and editing the markdown file that would eventually become the final team blog post.
