@@ -39,6 +39,8 @@ We hope to use the article search API from the NYT that allows us to search and 
 ## User Personas
 - ### Persona #1: Anton Müller, the Policy Maker
 
+<img src="https://i.imgur.com/Npbak9n.jpeg" class="center"/>
+
   - **Overview:**  
     - Age: 53
     - Occupation: Foreign Policy Advisor at the EU
@@ -72,6 +74,9 @@ We hope to use the article search API from the NYT that allows us to search and 
 
 
 - ### Persona #2: Katerina Stepanov, the Corporate Businesswoman
+
+<img src="https://i.imgur.com/Npbak9n.jpeg" class="center"/>
+
   - **Overview:**
     - Age: 37
     - Occupation: PR Specialist at Gazprom Oil 
@@ -107,6 +112,9 @@ We hope to use the article search API from the NYT that allows us to search and 
 
 
 - ### Persona #3: Monika José, the Traveler
+
+<img src="https://i.imgur.com/DQxFq9G.jpeg" class="center"/>
+
   - **Overview:**
     - Age: 18
     - Occupation: Unemployed
