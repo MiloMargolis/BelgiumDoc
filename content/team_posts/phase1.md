@@ -39,7 +39,7 @@ We began thinking about globalizing the very general concept of "food" (again, a
 ## User Personas
 - ### Persona #1: Anton Müller, the Policy Maker
 
-<img src="assets/katerina.jpg" class="center"/>
+<img src="hugo-blog-template\assets\katerina.jpg" class="center"/>
 
   - **Overview:**  
     - Age: 53
@@ -150,7 +150,6 @@ We began thinking about globalizing the very general concept of "food" (again, a
 
 
 ## Potential Sources / APIs
-NewsApi
-NYT API
-AP News API
-
+- <a href="https://newsapi.org/docs/get-started">NewsApi</a>
+- <a href="https://developer.nytimes.com/docs/archive-product/1/overview">NYT API</a>
+- <a href="https://api.ap.org/media/v/docs/#t=Getting_Started_API.htm">AP</a>
