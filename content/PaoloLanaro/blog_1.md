@@ -26,3 +26,7 @@ During our first two classes I learned a lot about Docker, SQL, and SQL. In SQL 
 Thinking about data and the application of computer and data science in an international setting is an eye-opening and great experience. This, and the mix of great food in Leuven, has made my team think about pursuing a possible project idea in predicting the estimated success of a restaurant based on demographical, geographical, and social indicators. 
 
 I'm wrapping this blog up now, and I know it's kind of an abrupt end, but I will be adding more in the coming days!
+
+## Addendum May 21 2024 (Personal work)
+
+This section will include my personal contributions to phase 1 of the project. I was able to help with the setup of Hugo and the website in general. This included fixing an issue in which we were running a github action that was unrelated to the original repo. Past just generally helping with the website setup, I also worked on Persona 3 (Monika) for the PoC. Aside from persona 3 (Monika) and working on the website setup with the rest of the team, I was just generally part of team discussions as there truly is no "I" in "team".
