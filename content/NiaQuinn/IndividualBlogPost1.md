@@ -6,7 +6,7 @@ description: "Introductory thoughts after discussion at world headquarters."
 slug: "first"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
-  - "nia-quinn"
+  - "nia_quinn"
 showAuthorsBadges : false
 ---
 A few days of Python review, data-cleaning crash courses, and a brush-up on statistics after touching down in Belgium, all 28 of us, 26 students and 2 professors, had the opportunity to take a quick trip next door to Brussels where we were about to listen to three knowledgeable speakers from the EEAS for short, or European External Action Service for long. 

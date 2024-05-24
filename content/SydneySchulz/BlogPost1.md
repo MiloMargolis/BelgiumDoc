@@ -6,7 +6,7 @@ description: "Blog Post 1 on the first 5 days"
 slug: "first"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
-  - "sydney-schulz"
+  - "sydney_schulz"
 showAuthorsBadges : false
 ---
 

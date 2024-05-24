@@ -6,7 +6,7 @@ description: "Final contributions to the first phase."
 slug: "second"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
-  - "nia-quinn"
+  - "nia_quinn"
 showAuthorsBadges : false
 ---
 

@@ -3,11 +3,11 @@ title: "Fascinating Findings"
 date: 2024-05-17
 draft: false
 description: "First blog post!"
-slug: "first"   # if you use, needs to be different for every post
+slug: "individual-post-one"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
   - "paolo_lanaro"
-showAuthorsBadges : false
+showAuthorsBadges : false 
 ---
 
 ## Fascinating Findings

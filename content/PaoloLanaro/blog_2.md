@@ -1,9 +1,9 @@
 ---
 title: "Ambitious Adventures"
 date: 2024-05-26
-draft: false
+draft: true
 description: "A very busy Sunday!"
-slug: "second"   # if you use, needs to be different for every post
+slug: "individual_post_two"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
   - "paolo_lanaro"

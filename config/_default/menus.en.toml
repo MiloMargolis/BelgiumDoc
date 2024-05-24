@@ -16,36 +16,36 @@
  # weight = 10
 
 [[main]]
-  name = "Team Posts"
+  name = "Blog"
   pageRef = "team_posts" 
   weight = 10
 
 [[main]]
-  name = "Team Members"
+  name = "Personal Blogs"
   weight = 20
 
 [[main]]
   name = "Milo Margolis"
-  parent = "Team Members"
+  parent = "Personal Blogs"
   pageRef = "MiloMargolis"
   weight = 20
 
 [[main]]
   name = "Nia Quinn"
-  parent = "Team Members"
+  parent = "Personal Blogs"
   pageRef = "NiaQuinn"
   weight = 20
 
 [[main]]
-  name = "Paolo Lanaro"
-  parent = "Team Members"
-  pageRef = "PaoloLanaro"
+  name = "Sydney Schulz"
+  parent = "Personal Blogs"
+  pageRef = "SydneySchulz"
   weight = 20
 
 [[main]]
-  name = "Sydney Schulz"
-  parent = "Team Members"
-  pageRef = "SydneySchulz"
+  name = "Paolo Lanaro"
+  parent = "Personal Blogs"
+  pageRef = "PaoloLanaro"
   weight = 20
 
 #[[main]]
