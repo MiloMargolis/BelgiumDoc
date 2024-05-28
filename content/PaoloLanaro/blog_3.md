@@ -12,7 +12,7 @@ showAuthorsBadges : false
 
 # Phase 2
 
-My contribution to phase 2 of the project has been working on the ER diagrams, the SQL DDL, and drafting the proof of concept wireframes. 
-As a team, we've discussed many aspects of the project such as what we can and can't build linear regression models on, simple ideas for features,
-and the structure and normalization of the database schema. I specifically worked on the ER diagrams for Monika and ____, and worked on building
-the DDL for the following tables: `users`, `user_emails`, ``
+My contribution to phase 2 of the project has been working on the ER diagrams, the SQL DDL, and helping with the proof of concept wireframes. 
+As a team, we've discussed many aspects of the project such as what we can and can't build linear regression models on (specifically when it comes to text),
+simple ideas for features, and the structure and normalization of the database schema. I specifically worked on the ER diagrams for Monika and ____, and 
+worked on building the DDL for the following tables: `users`, `articles`, `country`

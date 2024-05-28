@@ -15,6 +15,22 @@ showAuthorsBadges : false
 
 # Phase 2 Group Post
 
+## Updates to Phase 1
+
+
+
+## DS3000 Section ↓↓
+
+### Reasoning for Data Viz choices and results:
+
+
+
+### Preliminary implementation of ML model:
+
+
+
+## CS3200 Section ↓↓
+
 ### The following are the three localized ER Diagrams:
 
 ![Anton Muller ER Diagram](../../assets/AntonER.jpg)
