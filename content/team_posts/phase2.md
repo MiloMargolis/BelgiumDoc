@@ -15,4 +15,16 @@ showAuthorsBadges : false
 
 # Phase 2 Group Post
 
-### 
+### The following are the three localized ER Diagrams:
+
+![Anton Muller ER Diagram](../../assets/AntonER.jpg)
+![Katerina Stepanov ER Diagram](../../assets/KaterinaER) 
+![Monika Jose ER Diagram](../../assets/MonikaER)
+
+### This is the global data model:
+
+![Global Data Model ER Diagram](../../assets/GlobalER)
+
+### This is the proof of concept wireframe for our application:
+
+![Wireframe POC](../../assets/wireframe) 
