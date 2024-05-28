@@ -1,3 +1,4 @@
+---
 title: "Blog Post #2"
 date: 2024-05-17
 draft: false
@@ -7,6 +8,7 @@ tags: ["authors", "config", "docs"]
 authors:
   - "milo_margolis"
 showAuthorsBadges : false
+---
 
 Discussion/description of individual contributions to Phase II results
 # Personal Work Addendum for Week #2
