@@ -7,7 +7,7 @@ slug: "second"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
   - "nia_quinn"
-showAuthorsBadges : false
+showAuthorsBadges : true
 ---
 
 # Welcome back, here's what you've missed!
