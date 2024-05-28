@@ -13,7 +13,7 @@ During our group's initial tour around the city of Leuven, our tour guide shared
 
 Beyond the tour guide’s anecdote, I also learned that Lueven experienced real tragedy during the World War tour, as German troops did eventually occupy Leuven for some time. During this time, there were a variety of civilian casualties and the KU Leuven Library ended up being destroyed in 1940 by a fire. However, despite these devastations, Leuven managed to rebuild and preserve its rich cultural heritage. The efforts to restore the town, library, and maintain cultural sites continues to highlight the city's commitment to preserving its history. 
 
-# Personal Work Addendum
+# Personal Work Addendum #1
 - I set up the team git hub repository according to the directions on the slides and added all of my team members
 - I helped draft and proofread the project description
 - Researched potential API's (we found an awesome one from NYT!)
