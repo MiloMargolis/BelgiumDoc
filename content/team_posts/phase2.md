@@ -17,7 +17,7 @@ showAuthorsBadges : false
 
 ## Updates to Phase 1
 
-
+We had to rethink some of our user personas and have them do new things, such as Katerina now liking and sharing posts on our platform as well.
 
 ## DS3000 Section ↓↓
 
