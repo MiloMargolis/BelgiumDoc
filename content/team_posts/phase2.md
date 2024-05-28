@@ -22,6 +22,8 @@ One large change that we made since phase I was that we decided to use a differe
 
 ### Data Visualization and Contextualization
 
+The data visualizations are in the assets folder of the repo. The file name is EDA. Ty <3
+
 For the first visualization we wanted to have a general understanding of what the semantic scores were for each country. We created a bar plot that showed the median sentiment for each country and also shows what the maximum and minimum values were. Belgium had the highest sentiment score and the United States had the lowest sentiment score. Interestingly, Belgium had the lowest number of articles written about them while the United States had the most. It will be interesting to see if this trend continues when we collect data about more countries.
 
 For the second visualization, we wanted to explore the connections between the country that the article was published in and the queried country. The heat map shows not only that most of the articles came from the US. One interesting insight was that the US writes almost the same amount about itself as it does about China. In the future, it may be interesting to see how the sentiment score could be affected by what country is writing about it. 
