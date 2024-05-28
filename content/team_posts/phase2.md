@@ -33,9 +33,7 @@ showAuthorsBadges : false
 
 ### The following are the three localized ER Diagrams:
 
-![Anton Muller ER Diagram](../../assets/AntonER.jpg)
-![Katerina Stepanov ER Diagram](../../assets/KaterinaER) 
-![Monika Jose ER Diagram](../../assets/MonikaER)
+<img src="https://i.imgur.com/ThogIut.png" class="center"/>
 
 ### This is the global data model:
 
