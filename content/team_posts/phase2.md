@@ -39,7 +39,7 @@ showAuthorsBadges : false
 
 ### This is the global data model:
 
-![Global Data Model ER Diagram](../../assets/GlobalER)
+<img src="https://i.imgur.com/EOvQHQg.png" class="center"/>
 
 ### This is the proof of concept wireframe for our application:
 
