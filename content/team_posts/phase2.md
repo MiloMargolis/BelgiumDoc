@@ -43,4 +43,5 @@ showAuthorsBadges : false
 
 ### This is the proof of concept wireframe for our application:
 
-![Wireframe POC](../../assets/wireframe) 
+### Wireframe POC
+<img src="https://i.imgur.com/iFdaiJR.png" class="center"/>
