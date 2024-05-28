@@ -35,6 +35,7 @@ showAuthorsBadges : false
 
 <img src="https://i.imgur.com/73AsKPn.png" class="center"/>
 <img src="https://i.imgur.com/dTQVP7w.png" class="center"/>
+<img src="https://i.imgur.com/ThogIut.png" class="center"/>
 
 ### This is the global data model:
 
