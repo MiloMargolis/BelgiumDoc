@@ -36,6 +36,8 @@ After this, we implemented a very simple linear regression algorithm that utiliz
 
 This begs the question for the approach that will be taken for future steps and iterations of these predictive models. After seeing the poor correlations, we’ve decided that it will be necessary to refine and edit the features required to the answers to each driving question. Furthermore, we plan on incorporating additional countries to the dataset and beginning the implementation of a linear perceptron or some other classification algorithm to assist in an overarching global sentiment score of a user’s indicated country.
 
+Please check the assets folder of our repository for more information regarding this data extraction, cleaning, and linear regression.
+
 ### **Database Design Update**
 
 On the CS3200 end, we utilized our user personas to create detailed ER diagrams focused on user entities and their relationships. We developed three local ER diagrams, each representing different user interactions within the app. By combining these local diagrams, we created a comprehensive global ER diagram that includes all three user entities and the relevant entities for user data collection and news source data collection. We also drafted an SQL DDL for all relevant tables and created a mockup of a wireframe proof of concept.
