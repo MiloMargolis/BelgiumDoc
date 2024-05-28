@@ -31,6 +31,9 @@ We had to rethink some of our user personas and have them do new things, such as
 
 ## CS3200 Section ↓↓
 
+### SQL DDL
+https://github.com/PaoloLanaro/phase2_sql-ddl/blob/sql-ddl/AppSchema.sql
+
 ### The following are the three localized ER Diagrams:
 
 <img src="https://i.imgur.com/73AsKPn.png" class="center"/>
