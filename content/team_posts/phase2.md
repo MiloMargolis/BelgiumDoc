@@ -22,7 +22,8 @@ One large change that we made since phase I was that we decided to use a differe
 
 ### Data Visualization and Contextualization
 
-The data visualizations are in the assets folder of the repo. The file name is EDA. Ty <3
+The data visualizations are in the assets folder of the repo. The file name is EDA: https://github.com/MiloMargolis/BelgiumDoc/tree/main/assets/phase2.
+Ty <3
 
 For the first visualization we wanted to have a general understanding of what the semantic scores were for each country. We created a bar plot that showed the median sentiment for each country and also shows what the maximum and minimum values were. Belgium had the highest sentiment score and the United States had the lowest sentiment score. Interestingly, Belgium had the lowest number of articles written about them while the United States had the most. It will be interesting to see if this trend continues when we collect data about more countries.
 
