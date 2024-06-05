@@ -1,6 +1,6 @@
 ---
 title: "Blog Post #3"
-date: 2024-06-5
+date: 2024-06-05
 draft: false
 description: "Third post!"
 # slug: "first"
