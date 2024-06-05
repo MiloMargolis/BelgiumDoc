@@ -4,7 +4,7 @@ date: 2024-06-05
 draft: false
 description: "Third post!"
 # slug: "first"
-tags: ["authors", "config", "docs"]
+tags: ["authors", "config", "docs"]:
 authors:
   - "milo_margolis"
 showAuthorsBadges : false
