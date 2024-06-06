@@ -31,13 +31,7 @@ The next step is training the model. This can be done using the Naive Bayes form
 
 Once the model is trained, the probability of each sentence being either positive or negative is calculated. The score with the highest probability would be the sentiment for each sentence. 
 
-### Random Forest Classifier
 
-The second machine learning model that we implemented was a Random Forest Classifier. A Random Forest Classifier is built upon many decision tress which when combined, can create a more accurate classifier. 
-
-A decision tree is a essentially a flow chart which is used to make decisions. Each branch and level of the tree represents a different decision and results in an outcome based on that decision. When using a decision tree for classification, you have the ability to control how the data is split. Using the Gini impurity metric, you can evaluate how to split the data. The Gini score is calculated by ……. the goal of finding this score is to determine how to best split the data
-
-Decision trees often have problems however as they have a tendency to overfit the data and the results have a lot of variance. Random Forest classifiers aggregate many different decision trees together to create an overall more accurate classifier. The differences between these trees are produced through bootstrap sampling. Bootstrap sampling is sampling with replacement to create multiple datasets. Each bootstrap sample trains a separate decision tree. 
 
 ### Features being used for ML
 
