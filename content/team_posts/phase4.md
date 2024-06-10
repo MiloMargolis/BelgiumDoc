@@ -184,11 +184,11 @@ The fourth user persona (a system administrator) redirects to a page with two bu
 
 This diagram visualizes all the tables within our Diplomatic Data schema (DDL)
 
-![DDL_Image.png](Final%20Team%20Blog%20Post%200887f307d2264b56b5455dcbc8dbf560/DDL_Image.png)
+<img src="https://i.imgur.com/L0yPMPs.png" class="center"/>
 
 ### Frontend Architecture Connectivity Diagram
 
 This diagram visualizes the connections between all frontend pages in our web-app.
 
-![Untitled](Final%20Team%20Blog%20Post%200887f307d2264b56b5455dcbc8dbf560/Untitled%201.png)
+<img src="https://i.imgur.com/SREB2qr.png" class="center"/>
 
