@@ -75,7 +75,9 @@ The first classifier that we tried to use was the SMOTE technique. (Synthetic Mi
 
 The second classifier that we tried to use was the Balanced Random Forest Classifier. The BRFC allowed for more flexibility in the selection of bootstrap samples to attempt to address the imbalance. By testing out the sampling strategy, I was able to see if I can improve the model. I tested out the sampling strategies ‘all’ and ‘not majority’ to attempt to give the other countries besides the US more of a chance of appearing. Unfortunately, this classifier also did not work as it vastly underestimated the US and none of the returned predictions were the US. 
 
-Because of this, I made a choice to stick with the initial Random Forest Classifier as although this model is still highly flawed, it does still sometimes correctly predict the US and China as the correct countries.
+Because of this, I made a choice to stick with the initial Random Forest Classifier as although this model is still highly flawed, it does still sometimes correctly predict the US and China as the correct countries. 
+
+For this phase we realized a stark limitation of the ability of our model was the infeasibility of the robust nature of our data. Moving forward we are excited to exhaust other methods of determining various other sources and metheods of saving the data as a csv for future reference.
 
 # CS3200
 
