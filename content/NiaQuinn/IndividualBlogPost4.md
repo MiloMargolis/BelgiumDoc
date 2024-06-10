@@ -18,3 +18,10 @@ My main area of focus for this portion of the project was implementing both the 
 As an individual, I implemented the Multiple Linear Regression model in the app while assisting and augmenting the development of the routes that retrieve this data from the locally saved databases. After Sydney did the initial conversion from the Juptyer Notebook to the app, I refined the implementation and made sure that there was well documented and efficient code that would make the integration as easy as possible in the front-end.
 
 To assist Paolo and Milo with some of their work, I lightened their load by writing a few of the ML model routes that would take in user input, query the SQL databases, and then send that information back to the model. We all together worked to improve the general quality of the app!
+
+Here's my resume excerpt:
+Diplomatic Data | Python, StreamLit, Docker, NumPy | May – June 2024
+• Researched and implemented Multiple Linear Regression model using NumPy using features of articles to predict
+sentiment
+• Integrated MLR model with StreamLit based web application via Flask API routes
+• Harness power of StreamLit UI features to create user friendly application
