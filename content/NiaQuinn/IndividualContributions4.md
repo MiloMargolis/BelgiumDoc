@@ -3,7 +3,7 @@ title: "Individual Blog Post 4"
 date: 2024-06-10
 draft: false
 description: "Rushed concluded thoughts after a lot of python."
-slug: "fourth"   # if you use, needs to be different for every post
+slug: "fifth"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
   - "nia_quinn"
