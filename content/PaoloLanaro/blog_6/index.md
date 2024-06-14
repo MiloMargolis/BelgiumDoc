@@ -42,7 +42,7 @@ even similar to our final project done within the time frame we built the app in
 that I found super rewarding was the ability to be able to learn "out of my comfort zone", and in a group of likeminded and very smart peers.
 What I mean by this is that I would never been able to learn SQL (although I'm sure I've barely scratched the surface), Flask, and Streamlit
 in just 4 weeks had it not been truly fun for me to do so. This is both spurred on by the project being something tangible, and, again, being
-surrounded by smart, funny, and kind people.
+surrounded by kind, smart, and funny people!
 
 ## Resume
 The following link is my [resume](https://docs.google.com/document/d/1n55lwLp1Ym-Vet7t8-xu5DzQT_19Vrld6SdSSaRsLmA/edit?usp=sharing) with an
