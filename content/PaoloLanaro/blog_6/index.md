@@ -45,5 +45,4 @@ in just 4 weeks had it not been truly fun for me to do so. This is both spurred 
 surrounded by kind, smart, and funny people!
 
 ## Resume
-The following link is my [resume](https://docs.google.com/document/d/1n55lwLp1Ym-Vet7t8-xu5DzQT_19Vrld6SdSSaRsLmA/edit?usp=sharing) with an
-updated "Projects" section that includes our project.
+The following link is my [portfolio website](https://www.paololanaro.com) where you can see what I'm up to nowadays.
